@@ -46,7 +46,9 @@ Charts were created using ggplot2 to show:
 •	Payment Method vs Total Revenue
 
 ![Product Category vs Total Revenue](Product_Category_vs_Total_Revenue.png)
+
 ![City vs Total Revenue](City_vs_Total_Revenue.png)
+
 ![Payment Method vs Total Revenue](Payment_Method_vs_Total_Revenue.png)
 
 # Conclusion and Recommendation
