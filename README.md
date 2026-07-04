@@ -56,4 +56,4 @@ The business should focus more on electronics, especially high-value items like 
 
 # Author
 Franklin Chisom  
-Data Analyst | Aspiring Data Scientist | R Enthusiast
+Data Analyst | SQL, Python, Power BI, & R Enthusiast
